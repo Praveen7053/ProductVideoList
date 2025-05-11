@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d797decc-d9fa-41ad-84bc-f59632857321" name="Changes" comment="" />
+    <list default="true" id="d797decc-d9fa-41ad-84bc-f59632857321" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/videos/sample10.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/videos/sample3.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/videos/sample5.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/videos/sample6.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/videos/sample7.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/videos/sample8.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/videos/sample9.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/videos.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/videos.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,9 +22,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2wwDhIiGyuTJVzz3Au3EGSFL7zQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -28,11 +37,12 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "F:/PraveenWorkspace/ProductVideoList/src/videos"
+    "last_opened_file_path": "F:/PraveenWorkspace/ProductVideoList3/src/videos"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\PraveenWorkspace\ProductVideoList3\src\videos" />
       <recent name="F:\PraveenWorkspace\ProductVideoList\src\videos" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -49,5 +59,16 @@
       <updated>1746943860591</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

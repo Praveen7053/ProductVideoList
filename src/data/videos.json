@@ -19,7 +19,49 @@
   },
   {
     "type": "local",
-    "src": "src/videos/promo2.mp4",
+    "src": "src/videos/sample2.mp4",
+    "productLink": "https://www.amazon.com/sample-product",
+    "platform": "Amazon"
+  },
+  {
+    "type": "local",
+    "src": "src/videos/sample3.mp4",
+    "productLink": "https://www.amazon.com/sample-product",
+    "platform": "Amazon"
+  },
+  {
+    "type": "local",
+    "src": "src/videos/sample5.mp4",
+    "productLink": "https://www.amazon.com/sample-product",
+    "platform": "Amazon"
+  },
+  {
+    "type": "local",
+    "src": "src/videos/sample6.mp4",
+    "productLink": "https://www.amazon.com/sample-product",
+    "platform": "Amazon"
+  },
+  {
+    "type": "local",
+    "src": "src/videos/sample7.mp4",
+    "productLink": "https://www.amazon.com/sample-product",
+    "platform": "Amazon"
+  },
+  {
+    "type": "local",
+    "src": "src/videos/sample8.mp4",
+    "productLink": "https://www.amazon.com/sample-product",
+    "platform": "Amazon"
+  },
+  {
+    "type": "local",
+    "src": "src/videos/sample9.mp4",
+    "productLink": "https://www.amazon.com/sample-product",
+    "platform": "Amazon"
+  },
+  {
+    "type": "local",
+    "src": "src/videos/sample10.mp4",
     "productLink": "https://www.amazon.com/sample-product",
     "platform": "Amazon"
   }
