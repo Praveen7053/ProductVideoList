@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d797decc-d9fa-41ad-84bc-f59632857321" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/videos/sample10.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/videos/sample3.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/videos/sample5.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/videos/sample6.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/videos/sample7.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/videos/sample8.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/videos/sample9.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/videos.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/videos.json" afterDir="false" />
-    </list>
+    <list default="true" id="d797decc-d9fa-41ad-84bc-f59632857321" name="Changes" comment="added samples videos" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +28,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "F:/PraveenWorkspace/ProductVideoList3/src/videos"
+    "last_opened_file_path": "F:/PraveenWorkspace/ProductVideoList"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -58,6 +49,15 @@
       <option name="presentableId" value="Default" />
       <updated>1746943860591</updated>
     </task>
+    <task id="LOCAL-00001" summary="added samples videos">
+      <option name="closed" value="true" />
+      <created>1746949312408</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1746949312408</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -70,5 +70,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added samples videos" />
+    <option name="LAST_COMMIT_MESSAGE" value="added samples videos" />
   </component>
 </project>
