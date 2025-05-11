@@ -1,0 +1,26 @@
+# Ignore IntelliJ IDEA project files
+.idea/
+*.iml
+
+# Ignore Maven build output
+target/
+
+# Ignore Gradle build output
+build/
+
+# Ignore compiled class files
+*.class
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.swp
+*~
+.DS_Store
+
+# Ignore Node.js modules (if you have a Node.js project in your repo)
+node_modules/
+
+# Ignore environment files (for example, if you have environment-specific files)
+.env
