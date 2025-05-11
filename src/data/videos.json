@@ -1,0 +1,26 @@
+[
+  {
+    "type": "local",
+    "src": "src/videos/sample1.mp4",
+    "productLink": "https://www.amazon.com",
+    "platform": "Amazon"
+  },
+  {
+    "type": "url",
+    "src": "https://www.w3schools.com/html/movie.mp4",
+    "productLink": "https://www.flipkart.com",
+    "platform": "Flipkart"
+  },
+  {
+    "type": "local",
+    "src": "src/videos/sample1.mp4",
+    "productLink": "https://www.amazon.com/sample-product",
+    "platform": "Amazon"
+  },
+  {
+    "type": "local",
+    "src": "src/videos/promo2.mp4",
+    "productLink": "https://www.amazon.com/sample-product",
+    "platform": "Amazon"
+  }
+]

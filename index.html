@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Video Reels</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        html, body {
+          margin: 0;
+          padding: 0;
+          overflow-x: hidden;
+        }
+        .reel-container {
+          scroll-snap-type: y mandatory;
+          overflow-y: scroll;
+          height: 100vh;
+        }
+        .reel {
+          scroll-snap-align: start;
+          height: 100vh;
+        }
+    </style>
+</head>
+<body class="bg-black text-white">
+<div id="videoContainer" class="flex flex-col overflow-y-scroll h-screen snap-y snap-mandatory">
+    <!-- Videos will be injected here -->
+</div>
+
+<script src="src/js/main.js"></script>
+</body>
+</html>
